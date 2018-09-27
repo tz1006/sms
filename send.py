@@ -1,7 +1,23 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 # filename: send.py
-# description: 等待，时间控制
+# description: sms 发送
+#    - login()
+#    - check_last_login()
+#    - text
+#    - text
+# parameters: 
+#    - text
+#    - text
+#    - text
+#    - text
+#    - phone
+#    - 
+#    - 
+# useage: 
+        
+
+
 
 import nexmo
 improt time
